@@ -89,6 +89,22 @@ CMake generates native makefiles and workspaces that can be used in various comp
 \end{itemize}
 
 
+\subsection*{Structure}
+
+Version control systems form a great paradigm to facilitate collaborative projects.
+Still, one of the many difficulties encountered in large projects is the fact that most programmers have a strong preference for a programming style.
+Following a few elementary guidelines can greatly simplify team work.
+A short list of generally applicable rules can be found below.
+\begin{itemize}
+\item \textbf{Main:} Only create one \texttt{main()} class to avoid confusing automated builders.
+This will prevent the \texttt{duplicate symbol} error that may otherwise occur at \texttt{link} time.
+\item \textbf{Structure:} Declare your classes in \texttt{header} files and define your classes in \texttt{source} files in a structured manner.
+\item \textbf{Hierarchy:} For simple projects, place all your files in a same directory, e.g., \texttt{src}.
+\item \textbf{Documentation:} Annotate your code appropriately, and remember that comments should be decipherable by someone else than the original programmer.
+\item \textbf{Libraries:} Only include cross-platform libraries for greater compatibility, e.g., \texttt{Boost}.
+\end{itemize}
+
+
 \newpage
 \section{Integrated Development Environments (optional)}
 
