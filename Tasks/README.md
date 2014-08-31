@@ -1,4 +1,23 @@
-ECEN489-Fall2014
-================
+Tasks
+=====
+A series of important tasks are assigned at the beginning of the semester.
+These tasks consist in installing and mastering pertinent software packages.
 
-Student repository for ECEN 489 at Texas A&amp;M University, Fall 2014.
+
+Task 1: Necessary Software
+--------------------------
+*  C++ Development Tools
+*  CMake
+*  Integrated Development Environments
+
+Task 2: Code Management System
+------------------------------ 
+*  Source code management with Git
+*  GitHub
+
+Task 3: Microcontroller Software
+--------------------------------
+*  Arduino
+
+Task 4: TBD
+-----------
