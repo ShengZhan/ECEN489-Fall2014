@@ -8,6 +8,7 @@ Tutorials
 *  C++ GNU Scientific Library
 *  C++ Socket Programming
 *  Eclipse IDE
+*  Google Fusion Tables API
 *  Git Command Line
 *  H-Bridges
 *  I2C Bus
@@ -16,5 +17,5 @@ Tutorials
 *  Microsoft DreamSpark
 *  Qt Cross-Platform Application and User Interface Framework
 *  QCustomPlot Plotting Widget
-*  SQLite (C++)
+*  SQLite
 
