@@ -1,9 +1,12 @@
 Tutorials
 =========
 
-*  Arduino
+*  Arduino and Teensy USB Development Board
 *  Arduino Serial Port (UART)
 *  CMake
+*  C++ Boost Library
+*  C++ GNU Scientific Library
+*  C++ Socket Programming
 *  Eclipse IDE
 *  Git Command Line
 *  H-Bridges
