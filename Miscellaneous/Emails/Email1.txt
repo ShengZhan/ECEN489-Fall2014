@@ -1,0 +1,18 @@
+Dear Students,
+
+Welcome to Data Acquisition & Autonomous Systems.  This course is somewhat unusual compared to more traditional offerings at Texas A&M University.  The emphasis is on experiential and project-based learning.  You are strongly encouraged to come to every class with a laptop, and you will be expected to read pertinent material and perform tasks before coming to lecture.  We will build on your knowledge of engineering and science, and we will leverage the complementary backgrounds of registered students.
+
+There is an important programming component to the course and several hands-on laboratories.  In each case, we expect some students to breeze through challenges, while other members may have to devote more time to specific topics.  Suggested readings will be assigned out of the following book.
+
+	C++ Primer (5th Edition)
+	by Stanley B. Lippman, Josée Lajoie, Barbara E. Moo
+
+This book is available electronically through the library.  The reading assignments are only necessary for those who need a primer/review of the C++ programming language.  Purchasing a textbook for the class is optional.  There are many other excellent resources on the subject.
+
+Classes take place on Monday, Wednesday from 5:45 to 6:35 pm, and on Friday from 2:00 to 5:00 pm.  Attendance is mandatory, except under special circumstances.  We will (eventually) meet in the Engineering Innovation Center.  You will be given keycard access to the building.  Exceptionally, on Monday, we will meet on the 3rd floor of the Zachry Building in the open area adjacent to the Zach Shack.  We will then proceed together to the EIC.
+
+You will find below a copy of the syllabus for the class; it is also available through the Howdy portal.
+
+Best regards,
+Jean-Francois Chamberland and Gregory Huff
+
