@@ -1,0 +1,10 @@
+Dear Students,
+
+You will find attached to this email Task 2, which focuses on source code management (SCM) tools employed to share your projects with other members of the class.  You will also use Git to submit your work and during peer grading activities.  Remember to always pull just before you try to push.
+
+Best regards,
+Jean-Francois Chamberland and Gregory Huff
+
+Due Date: Sep 5.
+GitHub: https://github.com/CourseReps/ECEN489-Fall2014
+
