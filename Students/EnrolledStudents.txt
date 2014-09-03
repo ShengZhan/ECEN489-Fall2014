@@ -5,13 +5,13 @@ Nathan Curtis Gober (ngober)             721004589,  ngober
 David Thomas Grayson (davegray91)        619003067,  davegray91
 Pravir Singh Gupta                       323003695,  pravir
 Peng Li (billlipeng)                     822003660,  billlipeng
-Hong Pan                                 122000171,  hongpan1986
+Hong Pan (hongpan0507)                   122000171,  hongpan1986
 Sangeeta Panigrahy                       522007493,  sangeeta
-Stephen Alexander Polson                 719008648,  stephenpolson
-Lingjun Pu                               221008012,  westwoodpu
+Stephen Alexander Polson (stephenpolson) 719008648,  stephenpolson
+Lingjun Pu (westwoodpu)                  221008012,  westwoodpu
 Rekhna Rajendran                         424001583,  butt3rcup
 Adhithya Rengarajan (adhithya09)         119008253,  adhithya_r
-Andrew Martin Ruddy                      622006410,  andrewruddy
-Rafael Omar Salas                        922004958,  rafsalas
+Andrew Martin Ruddy (andrewruddy)        622006410,  andrewruddy
+Rafael Omar Salas (Rafsalas)             922004958,  rafsalas
 Sheng Zhan (ShengZhang)                  823001425,  echo
 
