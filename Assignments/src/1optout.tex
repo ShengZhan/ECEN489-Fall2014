@@ -1,0 +1,56 @@
+\documentclass[11pt]{article}
+
+\usepackage{times}
+
+%%  Dimensions
+%%
+\topmargin             0in
+\headheight            0in
+\headsep               0in
+\textheight          8.5in
+\textwidth           6.5in
+\evensidemargin        0in
+\oddsidemargin         0in
+\parindent             0in
+
+%%  Definitions
+%%
+\renewcommand{\baselinestretch}{1.1}
+\pagestyle{plain}
+
+
+\begin{document}
+
+\begin{center}
+{\bfseries \LARGE Opt-Out Challenge 1}
+\end{center}
+
+\noindent
+\rule[1mm]{\linewidth}{0.2pt}
+
+
+Consider a text file that contains two top-level fields: \texttt{location} and \texttt{weather}.
+The first field is to remain untouched.
+The second field, \texttt{weather}, contains two attributes, \texttt{temp} and \texttt{tempunit}.
+The latter attribute can be Kelvin, Celsius or Fahrenheit.
+Your C++ program should be able to read the file; convert the second field to a temperature in Kelvin (both \texttt{temp} and \texttt{tempunit} should be changed if needed); and modify the original text file accordingly.
+For convenience, a sample file appears below.
+
+\begin{verbatim}
+{
+"location":
+   {
+      "country":"United States",
+      "state":"Texas",
+      "city":"College Station"
+   },
+"weather":
+   {
+      "temp":97,
+      "tempunit":"Kelvin"
+   }
+}
+
+\end{verbatim}
+
+\end{document}
