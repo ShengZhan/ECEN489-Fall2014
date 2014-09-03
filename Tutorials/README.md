@@ -2,7 +2,7 @@ Tutorials
 =========
 
 *  How to Post on Git Wiki 
-*  CMake (Hong Pan)
+*  CMake (Jean-Francois Chamberland, Wednesday, Sep 3)
 *  Eclipse IDE (Colin Brasher, Wednesday, Sep 3)
 *  Git Command Line (Nathan Gober, Friday, Sep 5)
 *  Arduino and Teensy USB Development Board (David Grayson, Sep 5)
