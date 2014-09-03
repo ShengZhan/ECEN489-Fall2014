@@ -115,3 +115,8 @@ build/
 *.ilg
 *.ind
 *.ist
+
+# IntelliJ Idea project files #
+######################
+.idea
+*.iml
